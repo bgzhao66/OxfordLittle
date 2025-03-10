@@ -92,7 +92,7 @@ sozzled, spa, space, spacecraft, spaceman, spaceship, spacesuit, spacious, spade
 
 sparse, spartan spasm, spasmodic, spastic, spat, spate, spathe, spatial, spatter, spatula, spawn, spay, speak, speakwasy, speaker, spear, spearhead, spearmint, spec, special, specialist, speciality, specialize, specially, species, specific, specification, specify, specimen
 
-specious, speck, speckle, specs, spectacle, spectacles, spectacular, spectate, spectator, spectral, spectre, spectrum, speculate,  speculative, speech, speechify, speechless, speed, speedboat, speedometer, speedway, speedy, spell, spellbound, spellchecker, spelling, spend, spendthrift, sperm, spermatozoon, spermicide, spew, sphagnum, sphere, spherical sphincter
+specious, speck, speckle, specs, spectacle, spectacles, spectacular, spectate, spectator, spectral, spectre, spectrum, speculate,  speculative, speech, speechify, speechless, speed, speedboat, speedometer, speedway, speedy, spell, spellbound, spellchecker, spelling, spend, spendthrift, sperm, spermatozoon, spermicide, spew, sphagnum, sphere, spherical, sphincter
 
 sphinx, spice, spick and span, spicy, spinder, spiel, spigot, spike, spill, spin, spina bifida, spinach, sinal, spindle, spindly, spindrift, spine, spineless, spinet, spinnaker, spinney, spinster, spiral, spire, spirit
 
@@ -100,7 +100,7 @@ spirited, spiritual, spiritualism, spirogyra, spit, spite, spiteful, spitfire, s
 
 spoiler, spoilsport spoke, spoken, spokesman, sponge, sponsor, spontaneous, spoof, spook, spooky, spool, spoon, spoonbill, spoonerism, sporadic, spore, sporran, sport, sporting, sportie, sportsman, sporty, spot, spotless
 
-spoltlight, spouse, spout, sprain, sprat, sprawl, spray, spread, spreadeagle, spreadsheet, spree, sprig, sprightly, spring, springboard, springbok, sprinkle, sprinkler, sprint, sprite, spritzer, sprocket, sprout, spruce, spry, spume, spun, spunk, spur
+spotlight, spouse, spout, sprain, sprat, sprawl, spray, spread, spreadeagle, spreadsheet, spree, sprig, sprightly, spring, springboard, springbok, sprinkle, sprinkler, sprint, sprite, spritzer, sprocket, sprout, spruce, spry, spume, spun, spunk, spur
 
 spurious, spurn, spurt, sputter, sputum, sputum, spy, spyglass, spyhole, squab, squabble, squad, squaddie, squadron, squalid, squall, squalor, squander, square, squash, squat, squaw, squawk, squeak, squeal, squeamish, squeegee
 
@@ -114,7 +114,7 @@ starling, starry, starship, start, starter, startle, startling starve, stash, st
 
 stave, stay, stead, steadfast, steady, steak, steal, stealth, stealthy, steam, steamroller, steamy,, steed, steel, steelworks, steely, steep, steeple, steeplechase, steeplejack, steer, steerage, steersman, stegosaurus, stellar, stem, stench, stencil
 
-stenographer, stentorian, step, stepbrother, stepchild, stepdaughter, stepfather, stepladder, stepmother, steppe, stepsister, stepson, stero, stereotype, sterile, sterilize, sterling, stern, sternum, steroid, stertorous, stethoscope, Stetson, stevedore, stew, steward, stewardess, stick
+stenographer, stentorian, step, stepbrother, stepchild, stepdaughter, stepfather, stepladder, stepmother, steppe, stepsister, stepson, stereo, stereotype, sterile, sterilize, sterling, stern, sternum, steroid, stertorous, stethoscope, Stetson, stevedore, stew, steward, stewardess, stick
 
 sticker, stickleback, stickler, sticky, stiff, stiffen, stifle, stifling, stigma, stigmatize, stile, stiletto, still, stillborn, stilt, stilted, Stilton, stimulant, stimulate, stimulus, sting, stingray, stingy, stink, stinking, stint, stipend, stipendiary, stipple, stipulate, stir
 
@@ -130,7 +130,7 @@ stringy, strip, stripe, stripling, stripper, striptease, strive, strobe, strode,
 
 stubborn, stucco, stuck, stud, student, studio, studious, study, stuff, stuffing, stuffy, stultify, stumble, stump, stumpy, stun, stunk, stunner, stunning, stunt, stuntman, stupefy, stupendous, stupid, stupor, sturdy, sturgeon, stutter
 
-sty, Stygian, style, stylish, stylist, stylistic, stylized, stylus, stymie, styptic, suave, sub, subaltern, subatomic, subconscious, subcontent, subcontract, subculture, subcutaneous, subdivide, subdue, subdued, subedit, subhuman, subject, subjective, sub judice, subjugate, subjunctive, sublet, sublimate, sublime, subliminal, sub-machine gun
+sty, Stygian, style, stylish, stylist, stylistic, stylized, stylus, stymie, styptic, suave, sub, subaltern, subatomic, subconscious, subcontinent, subcontract, subculture, subcutaneous, subdivide, subdue, subdued, subedit, subhuman, subject, subjective, sub judice, subjugate, subjunctive, sublet, sublimate, sublime, subliminal, sub-machine gun
 
 submarine, submerge, submerse, submersible, submicroscopic, submission, submissive, submit, subordinate, subplot, subpoena, subscribe, subscript, subscription, subsection, subsequent, subservient, subside, subsidence, subsidiary, subsidize, subsidy, subsist, subsistence, subsoil, subsonic, substance, substandard, substantial, substantially, substantiate, substantive, substitute, subsume, subterfuge
 
