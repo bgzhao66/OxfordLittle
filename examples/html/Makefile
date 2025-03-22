@@ -1,3 +1,5 @@
+SHELL:=/bin/bash
+
 all:
 	# Generate HTML files from Markdown files
 	for i in {A..Z}; do \
