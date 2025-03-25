@@ -3903,7 +3903,7 @@
 
 ---
 
-### 15. **Minion** (repeated)  
+### 15. **Minion** 
 - In the animated movie, the yellow **minions** were beloved for their mischief and loyalty.
 
 ---
@@ -4200,12 +4200,12 @@
 
 ---
 
-### 74. **Misfit** (repeated)  
+### 74. **Misfit** 
 - She was often considered a **misfit** because her artistic style was so different from the mainstream.
 
 ---
 
-### 75. **Misfortune** (repeated)  
+### 75. **Misfortune**  
 - The **misfortune** of the team losing the final game was compounded by an injury to their star player.
 
 ---

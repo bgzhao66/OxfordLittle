@@ -1382,7 +1382,7 @@
 
 ---  
 
-### 103. **Terrain** (repeated)  
+### 103. **Terrain** 
 - The military strategists analyzed the **terrain** to plan their next move during the operation.  
 
 ---  

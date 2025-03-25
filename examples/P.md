@@ -407,7 +407,7 @@
 
 ---
 
-### 82. **Panacea** (repeated)  
+### 82. **Panacea** 
 - Many people mistakenly believe that technology is a **panacea** for all societal issues.
 
 ---
@@ -656,7 +656,7 @@
 
 ---
 
-### 38. **Parable** (repeated)  
+### 38. **Parable** 
 - The **parable** of the prodigal son teaches lessons of forgiveness and redemption.
 
 ---
