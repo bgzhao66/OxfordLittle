@@ -2264,9 +2264,7 @@
 ---  
 
 ### 63. **Perfidy**  
-- His **perfidy** was revealed when his actions caused harm to
-
- those who trusted him the most.  
+- His **perfidy** was revealed when his actions caused harm to those who trusted him the most.  
 
 ---  
 
@@ -2849,9 +2847,7 @@
 
 ---  
 
-### 64. **Pet
-
-ty**  
+### 64. **Petty**  
 - The **petty** arguments between the two friends seemed insignificant in the grand scheme of things.  
 
 ---  
