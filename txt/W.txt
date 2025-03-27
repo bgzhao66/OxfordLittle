@@ -1,6 +1,6 @@
 wacky, wad, waddle, wade, wader, wafer, wafle, waft, wag, wage, wager, waggle, wagon, wagtail, waif, wain, wainscot, waist, waistband, waistcoat, waistline, wait, waiter, waive, waiver, wake, wakeful, waken, walk, walkabout, walkie-talkie, walkout, walkover, walkway, wall, wallaby, wallet, wallflower, wallop, wallow, wallpaper, wally, walnut, walrus, waltz, waltzer, wan
 
-wand, wander, wanderlust, wane, wangle, want, wanting, wanton, wapiti, war, warble, warbler, ward, warden, wader, wardrobe, wardroom, ware, warehouse, warfare, warhead, warhorse, warlike, warlock, warlord, warm, warmonger, warmth, warn, warning, warp
+wand, wander, wanderlust, wane, wangle, want, wanting, wanton, wapiti, war, warble, warbler, ward, warden, warder, wardrobe, wardroom, ware, warehouse, warfare, warhead, warhorse, warlike, warlock, warlord, warm, warmonger, warmth, warn, warning, warp
 
 warrant, warranty, warren, warrior, warship, wart, warthog, wary, wash, washbasin, washboard, washer, washing, washout, washroom, washstand, wasp, waspish, wassail, wastage, waste, wasteful, wasteland, wastrel, watch, watchdog, watchful, watchman, watchtower
 
@@ -8,13 +8,13 @@ watchword, water, waterbed, watercolour, watercourse, watercress, waterfall, wat
 
 wavy, wax, waxwork, way, wayfarer, waylay, wayside wayward, WC, we, weak, weaken, weakling, weakness, weal, wealth, wealthy, wean, weapon, wear, wearisome, weary, weasel, weather, weathercock, weatherman, weathervane, weave
 
-web, webbed, webbing, webcam, webcam, weblog, website, wed, wedding, wedge, wedlock, Wednesday, wee, weed, weedkiller, weedy, week, weekday, weekend, weekly, weep, weepy, weevil, weft, weight, weighbridge, weight, weighting, weightlifting
+web, webbed, webbing, webcam, weblog, website, wed, wedding, wedge, wedlock, Wednesday, wee, weed, weedkiller, weedy, week, weekday, weekend, weekly, weep, weepy, weevil, weft, weigh, weighbridge, weight, weighting, weightlifting
 
 weighty, weir, weird, weirdo, welcome, weld, welfare, well, wellington, welly, Welsh, welsh, welt, welter, welterweight,  wench, wend, Wendy house, wept, were, werewolf, west
 
 westerly, western, westerner, westernize, wet, wether, wetsuit, whack, whacky, whale, whalebone, whaler, whaling, whammy, wharf, what, whatever, whatnot, wheat, wheatear, wheatmeal, wheedle, wheel, wheelbarrow, wheelbase, wheelchair, wheeler-dealer, wheeze, whelk, whelp, when, whence
 
-whenever, where, whereabouts, whereas, whereby, wherefore, wherein, whereof, whereupon, wherever, wherewithal, wherry, whet, whether, whetstone, whey, which, whichever, whiff, Whig, while, whist, whim, whimper, whimsical, whimsy, whin, whine, whinge, whinny, whip
+whenever, where, whereabouts, whereas, whereby, wherefore, wherein, whereof, whereupon, wherever, wherewithal, wherry, whet, whether, whetstone, whey, which, whichever, whiff, Whig, while, whilst, whim, whimper, whimsical, whimsy, whin, whine, whinge, whinny, whip
 
 whiplash, whippersnapper, whippet, whippoorwill, whirl, whirligig, whirlpool, whirlwind, whirr, whisk, whisker, whisky, whisper, whist, whistle, Whit, whit, white, whitebait, whiten, whitewash, whither, whiting, Whitsun, whittle, whizz
 
@@ -26,7 +26,7 @@ willowy, willy-nilly, wilt, wily, wimp, wimple, win, wince, winceyette, winch, w
 
 wing, winger, wingspan, wink, winkle, winning, winnow, wino, winsome, winter, wintry, wipe, wire, wireless, wiretapping, wiring, wiry, wisdom, wise, wisecrack, wish, wishbone, wishful, wishy-washy, wisp, wisteria, wistful, wit, witch
 
-witchcraft, with, withdraw, wither, withers, withhold, within, without, without, withstand, witless, witness, witter, witticism, witty, wizard, wizened, woad, wobble, woe, woebegone, woeful, wok, wold, wolf, wolfhound, wolfram, wolverine, woman, womanize, womankind, womb
+witchcraft, with, withdraw, wither, withers, withhold, within, without, withstand, witless, witness, witter, witticism, witty, wizard, wizened, woad, wobble, woe, woebegone, woeful, wok, wold, wolf, wolfhound, wolfram, wolverine, woman, womanize, womankind, womb
 
 wonder, wonderful, wonderland, wondrous, wonky, wont, wonted, woo, wood, woodcut, woodcutter, wooded, wooden, woodland, woodlouse, woodpecker, woodturning, woodwork, woodworm, woof, woofer, wool, woollen, woolly,  woozy, word, wording, wordy, work
 

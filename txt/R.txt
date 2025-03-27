@@ -6,7 +6,7 @@ raincoat, rainfall, rainforest, rainy, raise, raisin, raison d'être, Raj, raja,
 
 ranger, rangy, rank, rankle, ransack, ransom, rant, rap, rapacious, rapacity, rape, rapid, rapier, rapist, rapport, rapprochement, rapscallion, rapt, rapture, rapturous, rare, rarebit, rarefied, raring, rarity, rascal, rash, rasher, rasp, raspberry, Rasta, Rastafarian
 
-rat, ratatouille, ratchet, rate, rather, ratify, rating, ratio, ratiocination, ratio, rational, rationale, rationalism, rationalize, rattan, rattle, rattlesnake, ratty, raucous, raunchy, ravage, rave, raven, ravening, ravenous, raver, ravine, raving, ravioli, ravish, raw, ray
+rat, ratatouille, ratchet, rate, rather, ratify, rating, ratio, ratiocination, ration, rational, rationale, rationalism, rationalize, rattan, rattle, rattlesnake, ratty, raucous, raunchy, ravage, rave, raven, ravening, ravenous, raver, ravine, raving, ravioli, ravish, raw, ray
 
 rayon, raze, razor, razzle, razzmatazz, reach, react, reaction, reactionary, reactivate, reactor, read, readership, readily, reading, readjust, ready, reagent, real, realign, realism, realistic, reality, realize, really, realm, ream, reap, reaper
 
@@ -20,7 +20,7 @@ redcurrant, redden, redeem, Redeemer, redemption, redeploy, redhead, redneck, re
 
 referendum, referral, refine, refinement, refinery, refit, reflect, reflection, reflective, reflector, reflex, reflexive, reflexology, refocus, reform, reformation, reformist, refract, refractory, refrain, refresh, refresher, refreshing, refreshment, refrigerate, refrigerator, refuel, refuge, refugee, refund, refurbish, refuse, refute, regain, regal, regale
 
-regalia, regard, regarding, regardless, regatta, regency, regency, regenerate, regent, reggae, regicide, regime, regimen, regiment, regimented, Regina, region, register, registrar, registration, registry, regress, regressive, regret, regretful, regrettable, regular, regularize, regulate, regulation, regurgitate, rehabilitate
+regalia, regard, regarding, regardless, regatta, regency, regenerate, regent, reggae, regicide, regime, regimen, regiment, regimented, Regina, region, register, registrar, registration, registry, regress, regressive, regret, regretful, regrettable, regular, regularize, regulate, regulation, regurgitate, rehabilitate
 
 rehash, rehearsal, rehearse, rehydrate, Reich, reign, reimburse, rein, reincarnate, reindeer, reinforce, reinforcement, reinstate, reiterate, reject, rejig, rejoice, rejoin, rejoinder, rejuvenate, rekindle, relapse, relate, relation, relationship, relative, relatively, relativism, relativity, relax, relay
 
@@ -54,11 +54,11 @@ robust, rock, rockabilly, rocker, rockery, rocket, rocky, rococo, rod, rodent, r
 
 rollmop, roly-poly, Roman, romance, Romanesque, Romanian, romantic, Romanticism, romanticize, Romany, romp, rompers, rondo, rood screen, roof, roofer, rook, rookery, rookie, room, roomy, roost, rooster, root, rootless, rootstock, rope
 
-ropy, rosary, rose, rosemary, rosemary, rosette, rosewood, rosin, roster, rostrum, rosy, rot, rota, rotary, rotate, rote, rotisserie, rotor, rotten, rotter, Rottweiler, rotund, rotunda, rouble, roué, rouge, rough, roughage, roughen, roughly, roughneck, roughshod, roulette
+ropy, rosary, rose, rosemary, rosette, rosewood, rosin, roster, rostrum, rosy, rot, rota, rotary, rotate, rote, rotisserie, rotor, rotten, rotter, Rottweiler, rotund, rotunda, rouble, roué, rouge, rough, roughage, roughen, roughly, roughneck, roughshod, roulette
 
 round, roundabout, rounded, roundel, rounders, Roundhead, roundly, roundworm, rouse, rousing, rout, route, routine, roux, rove, row, rowan, rowdy, rowlock, royal, royalist, royalty, rub
 
-rubber, rubberneck, rubbing, rubbish, rubble, rubella, rubicund, ruble, rubric, ruby, ruche, ruck, rucksack, ruckus, ructions, rudder, ruddy, rude, rudimentary, rudiments, rue, rueful, ruff, ruffian, ruffle, rug rugby, rugged, rugger, ruination, ruinous, rule
+rubber, rubberneck, rubbing, rubbish, rubble, rubella, rubicund, ruble, rubric, ruby, ruche, ruck, rucksack, ruckus, ructions, rudder, ruddy, rude, rudimentary, rudiments, rue, rueful, ruff, ruffian, ruffle, rug rugby, rugged, rugger, ruination, ruinous
 
 rule, ruling, rum, rumba, rumble, rumbustious, ruminant, ruminate, rummage, rummy, rumour, rump, rumple, rumpus, run, runaway, rundown, rune, rung, runnel, runner, running
 

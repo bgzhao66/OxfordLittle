@@ -12,7 +12,7 @@ barricade, barrier, barring, barrister, barrow, bartender, barter, basalt, base,
 
 bathe, bathos, bathroom, batik, baton, batsman, battalion, batten, batter, battery, battle, battleaxe, battledress, battlefield, battlement, battleship, batty, bauble, baulk, bauxite, bawdy, bawl, bay, bayonet, bazaar, bazooka, be, beach, beachcomber, beacon, bead, beadle, beady
 
-beagle, beak, beaker, beam, bean, beanbag, bear, beard, bearing, bear, beard, bearing, beats, beastly, beat, beatific, beatify, beatnik, beatnik, beau, beautician, beautiful, beautify, beauty, beaver, becalmed, because, beck, beckon, become, becquerel, bed, bedclothes
+beagle, beak, beaker, beam, bean, beanbag, bear, beard, bearing, beats, beastly, beat, beatific, beatify, beatnik, beau, beautician, beautiful, beautify, beauty, beaver, becalmed, because, beck, beckon, become, becquerel, bed, bedclothes
 
 bedding, bedevil, bedlam, bedpan, bedraggled, bedridden, bedrock, bedroom, bedsit, bedsore, bedspread, bedstead, bee, beech, beef, beefburger, beefy, beehive, beeline, Beelzebub, been, beep, beer, beeswax, beet, beetle, beetroot, befall, befit, before, beforehand, befriend, befuddled, beg, beget, beggar, begin, begonia, begrudge, beguile, behalf, behave, behaved, behaviour, behead, behemoth, behest, behind, behold, beholden, behove
 
@@ -20,7 +20,7 @@ beige, being, bejewelled, belated, belch, beleaguered, belfry, Belgian, belie, b
 
 benevolent, Bengali, benighted, benign, bent, benzene, bequeath, bequest, berate, bereave, bereft, beret, bergamot, beriberi, berk, berry, berserk, berth, beryllium, beseech, beset, beside, besiege, besmirch, besotted, bespoke, best, bestial, bestiality, bestir, bestow, bestride, bet, beta, bête noire, betide, betimes, betoken, betray, betrothed, better
 
-betterment, between, betwixt, bevel, beverage, bevy, bewail, beware, bewilder, bewitch, beyond, biannual, bias, biased, bib, Bible, bibliography, bibliophile, bibulous, bicameral, bicarbonate of soda, bicentenary, biceps, bicker, bicycle, bid, biddable, biddy, bide, bidet, biennial, bier, bifocal, big, bigamy, bigot, bigwig, bijou, bike, bikini, bilateral, bilberry, bilberry, bile, bilge
+betterment, between, betwixt, bevel, beverage, bevy, bewail, beware, bewilder, bewitch, beyond, biannual, bias, biased, bib, Bible, bibliography, bibliophile, bibulous, bicameral, bicarbonate of soda, bicentenary, biceps, bicker, bicycle, bid, biddable, biddy, bide, bidet, biennial, bier, bifocal, big, bigamy, bigot, bigwig, bijou, bike, bikini, bilateral, bilberry, bile, bilge
 
 bilingual, bilious, bilk, bill, billboard, billet, billet-doux, billhook, billiards, billion, billionaire, billow, billy goat, bimbo, bin, binary, bind, binder, bindi, binding, bindweed, binge, bingo, binocular, biochemistry, biodegradable, biodiversity, biography, biological, biology, bionic, biopsy, biorhythm, bioterrorism
 
@@ -46,19 +46,19 @@ bowdlerize, bowel, bower, bowl, bowler, bowling, bowls, box, boxer, boxing, Boxi
 
 brainwash, brainwave, brainy, braise, brake, bramble, bran, branch, brand, brandish, brandy, brash, brass, brasserie, brassiere, brassy, brat, bravado, brave, bravo, bravura, brawl, brawn, bray, brazen, brazier, Brazilian, brazil nut, breach, bread, breadcrumb, breaded, breadline, breadth, breadwinner, break
 
-breakage, breakaway, breakdown, breaker, breakfast, breakneck, breakthrough, breakwater, bream, breast, breastbone, breastfeed, breastplate, breaststroke, breath, breathalyser, breathe, breather, breathless, breathtaking, breathy, breathy, breech, breech birth, breeches, breed, breeding, breeze, breeze block, breezy, brethren, breve, brevity, brew, brewery, briar, bribe, bric-a-brac, brick 
+breakage, breakaway, breakdown, breaker, breakfast, breakneck, breakthrough, breakwater, bream, breast, breastbone, breastfeed, breastplate, breaststroke, breath, breathalyser, breathe, breather, breathless, breathtaking, breathy, breech, breech birth, breeches, breed, breeding, breeze, breeze block, breezy, brethren, breve, brevity, brew, brewery, briar, bribe, bric-a-brac, brick 
 
 brickbat, bricklayer bridal, bride, bridegroom, bridesmaid bridge, bridgehead, bridle, bridleway, brief, briefcase, briefing, briefs, brier, brigade, brigadier, brigand, bright, brighten, brilliant brim, brimstone, brindle, brine, bring, brinkmanship, briny, brio, brioche, brisk, brisket, bristle, British, Briton, brittle, broach, broad
 
-broadband, broadcast, broaden, broadleaved, broadsheet, broadside, brocade, broccoli, brochure, brochure, brogue, broil, broke, broken, broker, bromide, bromine, bronchial, bronchitis, bronco, brontosaurus, bronze, brooch, brood, broody, brook, broom, broomstick, broth, brothel, brother, brotherhood, brought, brow, browbeat, brown, brownfield, Brownie
+broadband, broadcast, broaden, broadleaved, broadsheet, broadside, brocade, broccoli, brochure, brogue, broil, broke, broken, broker, bromide, bromine, bronchial, bronchitis, bronco, brontosaurus, bronze, brooch, brood, broody, brook, broom, broomstick, broth, brothel, brother, brotherhood, brought, brow, browbeat, brown, brownfield, Brownie
 
-browse, browser, bruise, bruiser, brunch, brunette, brunt, brush, brush, brushwood, brusque, Brussels sprout, brutal, brutalize, brute, bubble, bubblegum, bubbly, bubonic plague, buccaneer, buck, buck, bucket, buckle, buckwheat, bucolic, bud, Buddhism, budding, buddy, budge, budgerigar, budget, budgie, buff
+browse, browser, bruise, bruiser, brunch, brunette, brunt, brush, brushwood, brusque, Brussels sprout, brutal, brutalize, brute, bubble, bubblegum, bubbly, bubonic plague, buccaneer, buck, bucket, buckle, buckwheat, bucolic, bud, Buddhism, budding, buddy, budge, budgerigar, budget, budgie, buff
 
 buffalo, buffer, buffet, buffoon, bug, bugbear, buggy, build, building, built, bulb, bulbous, Bulgarian, bulge, bulimia, bulk, bulkhead, bulky, bull, bulldog, bulldoze, bulldozer, bullet, bulletin, bullfighting, bullfinch, bullfrog, bullion, bullish, bullock, bullring, bullseye, bully, bulrush, bulwark
 
 bum, bumble, bumblebee, bumf, bump, bumper, bumpkin, bumptious, bun, bunch, bundle, bunfight, bung, bungalow, bungee jumping, bungle, bunion, bunk, bunker, bunkum, bunny, Bunsen burner, bunting, buoy, buoyant, burble, burden, burdensome, bureau, bureaucracy, bureaucrat, burgeon, burger, burgher, burglar, burglary, burgle, burgundy, burial, burlesque
 
-burly, burn, burner, burning, burning, burnish, burnout, burp, burr, burrow, bursar, bursary, burst, bury, bus, busby, bush, bushbaby, bushel, bushy, business, businesslike, businessman, busk, bust, bustle, busy, busybody, but, butane, butch, butcher, butler
+burly, burn, burner, burning, burnish, burnout, burp, burr, burrow, bursar, bursary, burst, bury, bus, busby, bush, bushbaby, bushel, bushy, business, businesslike, businessman, busk, bust, bustle, busy, busybody, but, butane, butch, butcher, butler
 
 butt, butter, buttercream, buttercup, butterfly, buttermilk, butterscotch, buttery, buttock, button, buttonhole, buttress, buxom, buy buzz, buzzard, buzzer, buzzword, by, bye, by-election, bygone, by-law, byline, bypass, by-product, byre, bystander, byte, byway, byword, Byzantine
    
