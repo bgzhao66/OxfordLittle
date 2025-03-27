@@ -6231,9 +6231,7 @@
 ---
 
 ### 71. **Premise**  
-- The argument was based on the **prem
-
-ise** that all humans are inherently good.  
+- The argument was based on the **premise** that all humans are inherently good.  
 
 ---
 
