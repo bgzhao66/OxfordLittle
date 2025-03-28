@@ -1,0 +1,184 @@
+### 第一组（1-100）  
+
+1. **jab** /dʒæb/  
+2. **jabber** /ˈdʒæbər/  
+3. **jack** /dʒæk/  
+4. **jackal** /ˈdʒækəl/ (美式 /ˈdʒækɔːl/)  
+5. **jackass** /ˈdʒækæs/  
+6. **jackdaw** /ˈdʒækdɔː/  
+7. **jacket** /ˈdʒækɪt/  
+8. **jackknife** /ˈdʒæknaɪf/  
+9. **jackpot** /ˈdʒækpɒt/  
+10. **Jacobean** /ˌdʒækəˈbiːən/  
+11. **Jacobite** /ˈdʒækəbaɪt/  
+12. **jacquard** /ˈdʒækɑːrd/  
+13. **jacuzzi** /dʒəˈkuːzi/  
+14. **jade** /dʒeɪd/  
+15. **jaded** /ˈdʒeɪdɪd/  
+16. **jagged** /ˈdʒæɡɪd/  
+17. **jaguar** /ˈdʒæɡjuər/ (美式 /ˈdʒæɡwɑːr/)  
+18. **jail** /dʒeɪl/  
+19. **jalopy** /dʒəˈlɒpi/  
+20. **jam** /dʒæm/  
+21. **jamb** /dʒæm/  
+22. **jamboree** /ˌdʒæmbəˈriː/  
+23. **jammy** /ˈdʒæmi/  
+24. **jangle** /ˈdʒæŋɡəl/  
+25. **janitor** /ˈdʒænɪtər/  
+26. **jape** /dʒeɪp/  
+27. **jar** /dʒɑːr/  
+28. **jargon** /ˈdʒɑːrɡən/  
+29. **jasmine** /ˈdʒæzmɪn/  
+30. **jasper** /ˈdʒæspər/  
+31. **jaundice** /ˈdʒɔːndɪs/  
+32. **jaunt** /dʒɔːnt/  
+33. **jaunty** /ˈdʒɔːnti/  
+34. **javelin** /ˈdʒævəlɪn/  
+35. **jaw** /dʒɔː/  
+36. **jawgone** /ˈdʒɔːɡɒn/  
+37. **jay** /dʒeɪ/  
+38. **jaywalk** /ˈdʒeɪwɔːk/  
+39. **jazz** /dʒæz/  
+40. **jazzy** /ˈdʒæzi/  
+41. **jealous** /ˈdʒeləs/  
+42. **jeans** /dʒiːnz/  
+43. **jeep** /dʒiːp/  
+44. **jeer** /dʒɪər/  
+45. **Jehovah** /dʒɪˈhəʊvə/  
+46. **jejune** /dʒɪˈdʒuːn/  
+47. **jelly** /ˈdʒeli/  
+48. **jellyfish** /ˈdʒelifɪʃ/  
+49. **jemmy** /ˈdʒemi/  
+50. **je ne sais quoi** /ʒə nə seɪ ˈkwɑː/  
+51. **jenny** /ˈdʒeni/  
+52. **jeopardize** /ˈdʒepərdaɪz/  
+53. **jeopardy** /ˈdʒepərdi/  
+54. **jerboa** /dʒɜːrˈbəʊə/  
+55. **jerky** /ˈdʒɜːrki/  
+56. **jerry-built** /ˈdʒeri bɪlt/  
+57. **jerrycan** /ˈdʒerikæn/  
+58. **jersey** /ˈdʒɜːrzi/  
+59. **Jerusalem artichoke** /dʒəˈruːsələm ˈɑːrtɪtʃəʊk/  
+60. **jest** /dʒest/  
+61. **jester** /ˈdʒestər/  
+62. **jet** /dʒet/  
+63. **jetsam** /ˈdʒetsəm/  
+64. **jettison** /ˈdʒetɪsən/  
+65. **jetty** /ˈdʒeti/  
+66. **Jew** /dʒuː/  
+67. **jewel** /ˈdʒuːəl/  
+68. **jeweller** /ˈdʒuːələr/  
+69. **jewellery** /ˈdʒuːəlri/  
+70. **Jewish** /ˈdʒuːɪʃ/  
+71. **Jezebel** /ˈdʒɛzəbəl/  
+72. **jib** /dʒɪb/  
+73. **jibe** /dʒaɪb/  
+74. **jiffy** /ˈdʒɪfi/  
+75. **jig** /dʒɪɡ/  
+76. **jiggle** /ˈdʒɪɡəl/  
+77. **jigsaw** /ˈdʒɪɡsɔː/  
+78. **jihad** /dʒɪˈhɑːd/  
+79. **jilt** /dʒɪlt/  
+80. **jingle** /ˈdʒɪŋɡəl/  
+81. **jingoism** /ˈdʒɪŋɡəʊɪzəm/  
+82. **jingx** /dʒɪŋks/  
+83. **jitterbug** /ˈdʒɪtərbʌɡ/  
+84. **jitters** /ˈdʒɪtərz/  
+85. **ive** /aɪv/  
+86. **job** /dʒɒb/ (美式 /dʒɑːb/)  
+87. **jobcentre** /ˈdʒɒbsentər/  
+88. **jockey** /ˈdʒɒki/  
+89. **jockstrap** /ˈdʒɒkstræp/  
+90. **jocose** /dʒəˈkəʊs/  
+91. **jocular** /ˈdʒɒkjʊlər/  
+92. **jocund** /ˈdʒɒkənd/  
+93. **jodhpurs** /ˈdʒɒdpərz/  
+94. **jog** /dʒɒɡ/  
+95. **joggle** /ˈdʒɒɡəl/  
+96. **joie de vivre** /ˌʒwɑː də ˈviːvrə/  
+97. **join** /dʒɔɪn/  
+98. **joiner** /ˈdʒɔɪnər/  
+99. **joinery** /ˈdʒɔɪnəri/  
+100. **joint** /dʒɔɪnt/  
+
+---
+
+### 第二组（101-200）  
+
+101. **joist** /dʒɔɪst/  
+102. **jojoba** /həˈhəʊbə/  
+103. **joke** /dʒəʊk/  
+104. **joker** /ˈdʒəʊkər/  
+105. **jollification** /ˌdʒɒlɪfɪˈkeɪʃən/  
+106. **jollity** /ˈdʒɒlɪti/  
+107. **jolly** /ˈdʒɒli/  
+108. **jolt** /dʒəʊlt/  
+109. **josh** /dʒɒʃ/  
+110. **joss stick** /ˈdʒɒs stɪk/  
+111. **jostle** /ˈdʒɒsəl/  
+112. **joule** /dʒuːl/  
+113. **journal** /ˈdʒɜːrnəl/  
+114. **journalese** /ˌdʒɜːrnəˈliːz/  
+115. **journalism** /ˈdʒɜːrnəlɪzəm/  
+116. **journalist** /ˈdʒɜːrnəlɪst/  
+117. **journey** /ˈdʒɜːrni/  
+118. **journeyman** /ˈdʒɜːrnimən/  
+119. **joust** /dʒaʊst/  
+120. **jovial** /ˈdʒəʊviəl/  
+121. **jowl** /dʒaʊl/  
+122. **joy** /dʒɔɪ/  
+123. **joyful** /ˈdʒɔɪfəl/  
+124. **joyous** /ˈdʒɔɪəs/  
+125. **joyriding** /ˈdʒɔɪraɪdɪŋ/  
+126. **joystick** /ˈdʒɔɪstɪk/  
+127. **jubilant** /ˈdʒuːbɪlənt/  
+128. **jubilation** /ˌdʒuːbɪˈleɪʃən/  
+129. **judder** /ˈdʒʌdər/  
+130. **judge** /dʒʌdʒ/  
+131. **judgement** /ˈdʒʌdʒmənt/  
+132. **judgemental** /ˌdʒʌdʒˈmentəl/  
+133. **judicature** /ˈdʒuːdɪkətʃər/  
+134. **judicial** /dʒuːˈdɪʃəl/  
+135. **judicious** /dʒuːˈdɪʃəs/  
+136. **judo** /ˈdʒuːdəʊ/  
+137. **jug** /dʒʌɡ/  
+138. **juggernaut** /ˈdʒʌɡənɔːt/  
+139. **juggle** /ˈdʒʌɡəl/  
+140. **jugular** /ˈdʒʌɡjʊlər/  
+141. **juice** /dʒuːs/  
+142. **juicy** /ˈdʒuːsi/  
+143. **ju-jitsu** /dʒuːˈdʒɪtsuː/  
+144. **jukebox** /ˈdʒuːkbɒks/  
+145. **julep** /ˈdʒuːlep/  
+146. **jumble** /ˈdʒʌmbəl/  
+147. **jumbo** /ˈdʒʌmbəʊ/  
+148. **jump** /dʒʌmp/  
+149. **jumper** /ˈdʒʌmpər/  
+150. **jumpsuit** /ˈdʒʌmpsuːt/  
+151. **jumpy** /ˈdʒʌmpi/  
+152. **junction** /ˈdʒʌŋkʃən/  
+153. **juncture** /ˈdʒʌŋktʃər/  
+154. **June** /dʒuːn/  
+155. **jungle** /ˈdʒʌŋɡəl/  
+156. **junior** /ˈdʒuːniər/  
+157. **juniper** /ˈdʒuːnɪpər/  
+158. **junk** /dʒʌŋk/  
+159. **junket** /ˈdʒʌŋkɪt/  
+160. **junkie** /ˈdʒʌŋki/  
+161. **junta** /ˈdʒʌntə/  
+162. **Jupiter** /ˈdʒuːpɪtər/  
+163. **jurisdiction** /ˌdʒʊərɪsˈdɪkʃən/  
+164. **jurisprudence** /ˌdʒʊərɪsˈpruːdəns/  
+165. **jurist** /ˈdʒʊərɪst/  
+166. **juror** /ˈdʒʊərər/  
+167. **jury** /ˈdʒʊəri/  
+168. **just** /dʒʌst/  
+169. **justice** /ˈdʒʌstɪs/  
+170. **justifiable** /ˈdʒʌstɪfaɪəbəl/  
+171. **justify** /ˈdʒʌstɪfaɪ/  
+172. **jut** /dʒʌt/  
+173. **jute** /dʒuːt/  
+174. **juvenile** /ˈdʒuːvənaɪl/  
+175. **juxtapose** /ˌdʒʌkstəˈpəʊz/  
+
+---
