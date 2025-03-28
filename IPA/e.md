@@ -862,4 +862,5 @@
 835. **eyesight** /ˈaɪsaɪt/  
 836. **eyesore** /ˈaɪsɔː/  
 837. **eyewitness** /ˈaɪwɪtnəs/  
+
 ---
