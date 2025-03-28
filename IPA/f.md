@@ -10,7 +10,6 @@
 9. **faceless** /ˈfeɪsləs/  
 10. **facelift** /ˈfeɪslɪft/  
 11. **facet** /ˈfæsɪt/  
-
 12. **facetious** /fəˈsiːʃəs/  
 13. **facia** /ˈfeɪʃə/  
 14. **facial** /ˈfeɪʃəl/  
@@ -22,7 +21,6 @@
 20. **fact** /fækt/  
 21. **faction** /ˈfækʃən/  
 22. **factious** /ˈfækʃəs/  
-
 23. **factitious** /fækˈtɪʃəs/  
 24. **factor** /ˈfæktə/  
 25. **factory** /ˈfæktəri/  
@@ -34,7 +32,6 @@
 31. **faeces** /ˈfiːsiːz/  
 32. **fag** /fæɡ/  
 33. **faggot** /ˈfæɡət/  
-
 34. **Fahrenheit** /ˈfærənhaɪt/  
 35. **fail** /feɪl/  
 36. **failing** /ˈfeɪlɪŋ/  
@@ -47,7 +44,6 @@
 43. **fairway** /ˈfeəweɪ/  
 44. **fairy** /ˈfeəri/  
 45. **fait accompli** /ˌfeɪt əˈkɒmpli/  
-
 46. **faith** /feɪθ/  
 47. **faithful** /ˈfeɪθfʊl/  
 48. **faithless** /ˈfeɪθləs/  
@@ -59,7 +55,6 @@
 54. **fallacious** /fəˈleɪʃəs/  
 55. **fallacy** /ˈfæləsi/  
 56. **fallback** /ˈfɔːlbæk/  
-
 57. **fallible** /ˈfæləbəl/  
 58. **Fallopian tube** /fəˈləʊpiən tjuːb/  
 59. **fallout** /ˈfɔːlaʊt/  
@@ -71,7 +66,6 @@
 65. **falter** /ˈfɔːltə/  
 66. **fame** /feɪm/  
 67. **famed** /feɪmd/  
-
 68. **familial** /fəˈmɪliəl/  
 69. **familiar** /fəˈmɪliə/  
 70. **familiarize** /fəˈmɪliəraɪz/  
@@ -84,7 +78,6 @@
 77. **fancier** /ˈfænsiə/  
 78. **fanciful** /ˈfænsɪfʊl/  
 79. **fancy** /ˈfænsi/  
-
 80. **fandango** /fænˈdæŋɡəʊ/  
 81. **fanfare** /ˈfænfeə/  
 82. **fang** /fæŋ/  
@@ -97,7 +90,6 @@
 89. **farad** /ˈfærəd/  
 90. **faraway** /ˈfɑːrəweɪ/  
 91. **farce** /fɑːs/  
-
 92. **farcical** /ˈfɑːsɪkəl/  
 93. **fare** /feə/ (美式 /fer/)  
 94. **farewell** /ˌfeəˈwel/  
@@ -120,7 +112,6 @@
 109. **fashionable** /ˈfæʃənəbəl/  
 110. **fast** /fɑːst/  
 111. **fasten** /ˈfɑːsən/  
-
 112. **fastidious** /fəˈstɪdiəs/  
 113. **fastness** /ˈfɑːstnəs/  
 114. **fat** /fæt/  
@@ -132,7 +123,6 @@
 120. **father** /ˈfɑːðə/  
 121. **fatherland** /ˈfɑːðəlænd/  
 122. **fatherly** /ˈfɑːðəli/  
-
 123. **fathom** /ˈfæðəm/  
 124. **fatigue** /fəˈtiːɡ/  
 125. **fatten** /ˈfætən/  
@@ -145,7 +135,6 @@
 132. **faulty** /ˈfɔːlti/  
 133. **faun** /fɔːn/  
 134. **fauna** /ˈfɔːnə/  
-
 135. **faux pas** /ˌfəʊ ˈpɑː/  
 136. **favour** /ˈfeɪvə/ (美式 /ˈfeɪvər/)  
 137. **favourable** /ˈfeɪvərəbəl/  
@@ -158,7 +147,6 @@
 144. **fearful** /ˈfɪəfʊl/  
 145. **fearless** /ˈfɪələs/  
 146. **fearsome** /ˈfɪəsəm/  
-
 147. **feasible** /ˈfiːzəbəl/  
 148. **feast** /fiːst/  
 149. **feat** /fiːt/  
@@ -170,7 +158,6 @@
 155. **feckless** /ˈfekləs/  
 156. **fecund** /ˈfekənd/  
 157. **fed** /fed/  
-
 158. **federal** /ˈfedərəl/  
 159. **federate** /ˈfedəreɪt/  
 160. **federation** /ˌfedəˈreɪʃən/  
@@ -183,7 +170,6 @@
 167. **feeler** /ˈfiːlə/  
 168. **feeling** /ˈfiːlɪŋ/  
 169. **feet** /fiːt/  
-
 170. **feign** /feɪn/  
 171. **feint** /feɪnt/  
 172. **feisty** /ˈfaɪsti/  
@@ -196,7 +182,6 @@
 179. **fellowship** /ˈfeləʊʃɪp/  
 180. **felon** /ˈfelən/  
 181. **felony** /ˈfeləni/  
-
 182. **felt** /felt/  
 183. **female** /ˈfiːmeɪl/  
 184. **feminine** /ˈfemɪnɪn/  
@@ -208,7 +193,6 @@
 190. **fence** /fens/  
 191. **fencing** /ˈfensɪŋ/  
 192. **fend** /fend/  
-
 193. **fender** /ˈfendə/  
 194. **feng shui** /ˌfʌŋ ˈʃweɪ/  
 195. **fennel** /ˈfenəl/  
@@ -232,7 +216,6 @@
 209. **fervent** /ˈfɜːvənt/  
 210. **fervid** /ˈfɜːvɪd/  
 211. **fervour** /ˈfɜːvə/ (美式 /ˈfɜːrvər/)  
-
 212. **festal** /ˈfestəl/  
 213. **festival** /ˈfestɪvəl/  
 214. **festive** /ˈfestɪv/  
@@ -244,7 +227,6 @@
 220. **fête** /feɪt/  
 221. **fetid** /ˈfetɪd/  
 222. **fetish** /ˈfetɪʃ/  
-
 223. **fetlock** /ˈfetlɒk/  
 224. **fetter** /ˈfetə/  
 225. **fettle** /ˈfetəl/  
@@ -257,7 +239,6 @@
 232. **fevered** /ˈfiːvəd/  
 233. **few** /fjuː/  
 234. **fey** /feɪ/  
-
 235. **fez** /fez/  
 236. **ff.** /fɔːlt/ (abbr. for "following")  
 237. **fiancé** /fiˈɒnseɪ/ (美式 /ˌfiːɑːnˈseɪ/)  
@@ -270,7 +251,6 @@
 244. **fibula** /ˈfɪbjʊlə/  
 245. **fickle** /ˈfɪkəl/  
 246. **fiction** /ˈfɪkʃən/  
-
 247. **fictionalize** /ˈfɪkʃənəlaɪz/  
 248. **fictitious** /fɪkˈtɪʃəs/  
 249. **fiddle** /ˈfɪdəl/  
@@ -283,7 +263,6 @@
 256. **fiendish** /ˈfiːndɪʃ/  
 257. **fierce** /fɪəs/  
 258. **fiery** /ˈfaɪəri/  
-
 259. **fiesta** /fiˈestə/  
 260. **fife** /faɪf/  
 261. **fifteen** /ˌfɪfˈtiːn/  
@@ -296,7 +275,6 @@
 268. **figurative** /ˈfɪɡərətɪv/  
 269. **figure** /ˈfɪɡə/  
 270. **figurehead** /ˈfɪɡəhed/  
-
 271. **figurine** /ˌfɪɡəˈriːn/  
 272. **filament** /ˈfɪləmənt/  
 273. **filbert** /ˈfɪlbət/  
@@ -309,7 +287,6 @@
 280. **fill** /fɪl/  
 281. **filler** /ˈfɪlə/  
 282. **fillet** /ˈfɪlɪt/  
-
 283. **filling** /ˈfɪlɪŋ/  
 284. **fillip** /ˈfɪlɪp/  
 285. **filly** /ˈfɪli/  
@@ -322,7 +299,6 @@
 292. **filtration** /fɪlˈtreɪʃən/  
 293. **fin** /fɪn/  
 294. **final** /ˈfaɪnəl/  
-
 295. **finale** /fɪˈnɑːli/  
 296. **finalist** /ˈfaɪnəlɪst/  
 297. **finality** /faɪˈnælɪti/  
@@ -342,7 +318,6 @@
 309. **fingerboard** /ˈfɪŋɡəbɔːd/  
 310. **fingering** /ˈfɪŋɡərɪŋ/  
 311. **fingernail** /ˈfɪŋɡəneɪl/  
-
 312. **fingerprint** /ˈfɪŋɡəprɪnt/  
 313. **finial** /ˈfaɪniəl/  
 314. **finicky** /ˈfɪnɪki/  
@@ -354,7 +329,6 @@
 320. **fir** /fɜː/  
 321. **fire** /ˈfaɪə/  
 322. **firearm** /ˈfaɪərɑːm/  
-
 323. **fireball** /ˈfaɪəbɔːl/  
 324. **firebomb** /ˈfaɪəbɒm/  
 325. **firebrand** /ˈfaɪəbrænd/  
@@ -367,7 +341,6 @@
 332. **fireplace** /ˈfaɪəpleɪs/  
 333. **fireproof** /ˈfaɪəpruːf/  
 334. **firestorm** /ˈfaɪəstɔːm/  
-
 335. **firewall** /ˈfaɪəwɔːl/  
 336. **firewood** /ˈfaɪəwʊd/  
 337. **firework** /ˈfaɪəwɜːk/  
@@ -379,7 +352,6 @@
 343. **fiscal** /ˈfɪskəl/  
 344. **fish** /fɪʃ/  
 345. **fisherman** /ˈfɪʃəmən/  
-
 346. **fishery** /ˈfɪʃəri/  
 347. **fisheye lens** /ˈfɪʃaɪ lenz/  
 348. **fishmonger** /ˈfɪʃmʌŋɡə/  
@@ -392,7 +364,6 @@
 355. **fist** /fɪst/  
 356. **fisticuffs** /ˈfɪstɪkʌfs/  
 357. **fit** /fɪt/  
-
 358. **fitful** /ˈfɪtfʊl/  
 359. **fitment** /ˈfɪtmənt/  
 360. **fitted** /ˈfɪtɪd/  
@@ -406,7 +377,6 @@
 368. **fixture** /ˈfɪkstʃə/  
 369. **fizz** /fɪz/  
 370. **fizzle** /ˈfɪzəl/  
-
 371. **fizzy** /ˈfɪzi/  
 372. **fjord** /fjɔːd/  
 373. **fl.** /flɔːr/ (abbr. for "floruit")  
@@ -418,7 +388,6 @@
 379. **flag** /flæɡ/  
 380. **flagstone** /ˈflæɡstəʊn/  
 381. **flagellate** /ˈflædʒəleɪt/  
-
 382. **flagon** /ˈflæɡən/  
 383. **flagpole** /ˈflæɡpəʊl/  
 384. **flagrant** /ˈfleɪɡrənt/  
@@ -430,7 +399,6 @@
 390. **flambé** /ˈflɒmbeɪ/  
 391. **flamboyant** /flæmˈbɔɪənt/  
 392. **flame** /fleɪm/  
-
 393. **flamenco** /fləˈmeŋkəʊ/  
 394. **flamingo** /fləˈmɪŋɡəʊ/  
 395. **flammable** /ˈflæməbəl/  
@@ -454,7 +422,6 @@
 409. **flashlight** /ˈflæʃlaɪt/  
 410. **flashpoint** /ˈflæʃpɔɪnt/  
 411. **flashy** /ˈflæʃi/  
-
 412. **flask** /flɑːsk/  
 413. **flat** /flæt/  
 414. **flatfish** /ˈflætfɪʃ/  
@@ -466,7 +433,6 @@
 420. **flatworm** /ˈflætwɜːm/  
 421. **flaunt** /flɔːnt/  
 422. **flautist** /ˈflɔːtɪst/  
-
 423. **flavour** /ˈfleɪvə/  
 424. **flaw** /flɔː/  
 425. **flax** /flæks/  
@@ -478,7 +444,6 @@
 431. **fledged** /fledʒd/  
 432. **fledgling** /ˈfledʒlɪŋ/  
 433. **flee** /fliː/  
-
 434. **fleece** /fliːs/  
 435. **fleet** /fliːt/  
 436. **fleeting** /ˈfliːtɪŋ/  
@@ -491,7 +456,6 @@
 443. **flexitime** /ˈfleksɪtaɪm/  
 444. **flick** /flɪk/  
 445. **flicker** /ˈflɪkə/  
-
 446. **flier** /ˈflaɪə/  
 447. **flight** /flaɪt/  
 448. **flighty** /ˈflaɪti/  
@@ -504,7 +468,6 @@
 455. **flippant** /ˈflɪpənt/  
 456. **flipper** /ˈflɪpə/  
 457. **flirt** /flɜːt/  
-
 458. **flirtatious** /flɜːˈteɪʃəs/  
 459. **flit** /flɪt/  
 460. **flitter** /ˈflɪtə/  
@@ -517,7 +480,6 @@
 467. **floodgate** /ˈflʌdɡeɪt/  
 468. **floodlight** /ˈflʌdlaɪt/  
 469. **floor** /flɔː/  
-
 470. **floorboard** /ˈflɔːbɔːd/  
 471. **flop** /flɒp/  
 472. **floppy** /ˈflɒpi/  
@@ -530,7 +492,6 @@
 479. **floss** /flɒs/  
 480. **flotation** /fləʊˈteɪʃən/  
 481. **flotilla** /fləˈtɪlə/  
-
 482. **flotsam** /ˈflɒtsəm/  
 483. **flounce** /flaʊns/  
 484. **flounder** /ˈflaʊndə/  
@@ -543,7 +504,6 @@
 491. **flowery** /ˈflaʊəri/  
 492. **flown** /fləʊn/  
 493. **flu** /fluː/  
-
 494. **fluctuate** /ˈflʌktʃueɪt/  
 495. **flue** /fluː/  
 496. **fluent** /ˈfluːənt/  
@@ -564,7 +524,6 @@
 509. **fluorescent** /ˌflʊəˈresənt/  
 510. **fluoridate** /ˈflʊərɪdeɪt/  
 511. **fluoride** /ˈflʊəraɪd/  
-
 512. **fluorine** /ˈflʊəriːn/  
 513. **fluorite** /ˈflʊəraɪt/  
 514. **fluorspar** /ˈflʊəspɑː/  
@@ -576,7 +535,6 @@
 520. **fluted** /ˈfluːtɪd/  
 521. **flutter** /ˈflʌtə/  
 522. **fluvial** /ˈfluːviəl/  
-
 523. **flux** /flʌks/  
 524. **fly** /flaɪ/  
 525. **flyaway** /ˈflaɪəweɪ/  
@@ -589,7 +547,6 @@
 532. **foal** /fəʊl/  
 533. **foam** /fəʊm/  
 534. **fob** /fɒb/  
-
 535. **focaccia** /fəˈkɑːtʃə/  
 536. **focal** /ˈfəʊkəl/  
 537. **focus** /ˈfəʊkəs/  
@@ -602,7 +559,6 @@
 544. **foggy** /ˈfɒɡi/  
 545. **foghorn** /ˈfɒɡhɔːn/  
 546. **foible** /ˈfɔɪbəl/  
-
 547. **foil** /fɔɪl/  
 548. **foist** /fɔɪst/  
 549. **fold** /fəʊld/  
@@ -614,7 +570,6 @@
 555. **folklore** /ˈfəʊklɔː/  
 556. **folksy** /ˈfəʊksi/  
 557. **follicle** /ˈfɒlɪkəl/  
-
 558. **follow** /ˈfɒləʊ/  
 559. **follower** /ˈfɒləʊə/  
 560. **following** /ˈfɒləʊɪŋ/  
@@ -627,7 +582,6 @@
 567. **font** /fɒnt/  
 568. **food** /fuːd/  
 569. **foodstuff** /ˈfuːdstʌf/  
-
 570. **fool** /fuːl/  
 571. **foolhardy** /ˈfuːlhɑːdi/  
 572. **foolish** /ˈfuːlɪʃ/  
@@ -640,7 +594,6 @@
 579. **footfall** /ˈfʊtfɔːl/  
 580. **foothill** /ˈfʊthɪl/  
 581. **foothold** /ˈfʊthəʊld/  
-
 582. **footing** /ˈfʊtɪŋ/  
 583. **footlights** /ˈfʊtlaɪts/  
 584. **footling** /ˈfʊtlɪŋ/  
@@ -653,7 +606,6 @@
 591. **footsore** /ˈfʊtsɔː/  
 592. **footstep** /ˈfʊtstep/  
 593. **footstool** /ˈfʊtstuːl/  
-
 594. **fop** /fɒp/  
 595. **for** /fɔː/  
 596. **fora** /ˈfɔːrə/  
@@ -676,7 +628,6 @@
 609. **ford** /fɔːd/  
 610. **fore** /fɔː/  
 611. **forearm** /ˈfɔːrɑːm/  
-
 612. **forebear** /ˈfɔːbeə/  
 613. **foreboding** /fɔːˈbəʊdɪŋ/  
 614. **forecast** /ˈfɔːkɑːst/  
@@ -688,7 +639,6 @@
 620. **forefoot** /ˈfɔːfʊt/  
 621. **forego** /fɔːˈɡəʊ/  
 622. **foregoing** /fɔːˈɡəʊɪŋ/  
-
 623. **foreground** /ˈfɔːɡraʊnd/  
 624. **forehand** /ˈfɔːhænd/  
 625. **forehead** /ˈfɒrɪd/  
@@ -701,7 +651,6 @@
 632. **foremast** /ˈfɔːmɑːst/  
 633. **foremost** /ˈfɔːməʊst/  
 634. **forename** /ˈfɔːneɪm/  
-
 635. **forensic** /fəˈrensɪk/  
 636. **foreplay** /ˈfɔːpleɪ/  
 637. **forerunner** /ˈfɔːrʌnə/  
@@ -714,7 +663,6 @@
 644. **forest** /ˈfɒrɪst/  
 645. **forestall** /fɔːˈstɔːl/  
 646. **forestry** /ˈfɒrɪstri/  
-
 647. **foretaste** /ˈfɔːteɪst/  
 648. **foretell** /fɔːˈtel/  
 649. **forethought** /ˈfɔːθɔːt/  
@@ -726,7 +674,6 @@
 655. **forge** /fɔːdʒ/  
 656. **forget** /fəˈɡet/  
 657. **forgetful** /fəˈɡetfʊl/  
-
 658. **forgive** /fəˈɡɪv/  
 659. **forgiveness** /fəˈɡɪvnəs/  
 660. **forgo** /fɔːˈɡəʊ/  
@@ -739,7 +686,6 @@
 667. **formaldehyde** /fɔːˈmældɪhaɪd/  
 668. **formalin** /ˈfɔːməlɪn/  
 669. **formality** /fɔːˈmælɪti/  
-
 670. **formalize** /ˈfɔːməlaɪz/  
 671. **format** /ˈfɔːmæt/  
 672. **formation** /fɔːˈmeɪʃən/  
@@ -752,7 +698,6 @@
 679. **formula** /ˈfɔːmjʊlə/  
 680. **formulaic** /ˌfɔːmjʊˈleɪɪk/  
 681. **formulate** /ˈfɔːmjʊleɪt/  
-
 682. **fornicate** /ˈfɔːnɪkeɪt/  
 683. **forsake** /fəˈseɪk/  
 684. **forsooth** /fəˈsuːθ/  
@@ -765,7 +710,6 @@
 691. **forthright** /ˈfɔːθraɪt/  
 692. **forthwith** /fɔːθˈwɪθ/  
 693. **fortify** /ˈfɔːtɪfaɪ/  
-
 694. **fortissimo** /fɔːˈtɪsɪməʊ/  
 695. **fortitude** /ˈfɔːtɪtjuːd/  
 696. **fortnight** /ˈfɔːtnaɪt/  
@@ -786,7 +730,6 @@
 709. **fought** /fɔːt/  
 710. **foul** /faʊl/  
 711. **found** /faʊnd/  
-
 712. **foundation** /faʊnˈdeɪʃən/  
 713. **founder** /ˈfaʊndə/  
 714. **foundling** /ˈfaʊndlɪŋ/  
@@ -798,7 +741,6 @@
 720. **foursome** /ˈfɔːsəm/  
 721. **fourteen** /ˌfɔːˈtiːn/  
 722. **fourth** /fɔːθ/  
-
 723. **fowl** /faʊl/  
 724. **fox** /fɒks/  
 725. **foxglove** /ˈfɒksɡlʌv/  
@@ -811,7 +753,6 @@
 732. **fraction** /ˈfrækʃən/  
 733. **fractional** /ˈfrækʃənəl/  
 734. **fractious** /ˈfrækʃəs/  
-
 735. **fracture** /ˈfræktʃə/  
 736. **fragile** /ˈfrædʒaɪl/  
 737. **fragment** /ˈfræɡmənt/  
@@ -824,7 +765,6 @@
 744. **franc** /fræŋk/  
 745. **franchise** /ˈfræntʃaɪz/  
 746. **frank** /fræŋk/  
-
 747. **frankfurter** /ˈfræŋkfɜːtə/  
 748. **frankincense** /ˈfræŋkɪnsens/  
 749. **frantic** /ˈfræntɪk/  
@@ -837,7 +777,6 @@
 756. **fraudulent** /ˈfrɔːdjʊlənt/  
 757. **fraught** /frɔːt/  
 758. **fray** /freɪ/  
-
 759. **frazzle** /ˈfræzəl/  
 760. **freak** /friːk/  
 761. **freckle** /ˈfrekəl/  
@@ -851,7 +790,6 @@
 769. **freeman** /ˈfriːmən/  
 770. **Freemason** /ˈfriːmeɪsən/  
 771. **freesia** /ˈfriːziə/  
-
 772. **freestyle** /ˈfriːstaɪl/  
 773. **freethinker** /ˌfriːˈθɪŋkə/  
 774. **freeway** /ˈfriːweɪ/  
@@ -864,7 +802,6 @@
 781. **French** /frentʃ/  
 782. **frenetic** /frəˈnetɪk/  
 783. **frenzy** /ˈfrenzi/  
-
 784. **frequency** /ˈfriːkwənsi/  
 785. **frequent** /ˈfriːkwənt/  
 786. **fresco** /ˈfreskəʊ/  
@@ -877,7 +814,6 @@
 793. **fretwork** /ˈfretwɜːk/  
 794. **friable** /ˈfraɪəbəl/  
 795. **friar** /ˈfraɪə/  
-
 796. **friary** /ˈfraɪəri/  
 797. **fricassée** /ˈfrɪkəseɪ/  
 798. **friction** /ˈfrɪkʃən/  
@@ -898,7 +834,6 @@
 809. **frill** /frɪl/  
 810. **fringe** /frɪndʒ/  
 811. **frippery** /ˈfrɪpəri/  
-
 812. **frisbee** /ˈfrɪzbiː/  
 813. **frisk** /frɪsk/  
 814. **frisky** /ˈfrɪski/  
@@ -910,7 +845,6 @@
 820. **frock** /frɒk/  
 821. **frog** /frɒɡ/  
 822. **frogman** /ˈfrɒɡmən/  
-
 823. **frogmarch** /ˈfrɒɡmɑːtʃ/  
 824. **frogspawn** /ˈfrɒɡspɔːn/  
 825. **frolic** /ˈfrɒlɪk/  
@@ -922,7 +856,6 @@
 831. **frontage** /ˈfrʌntɪdʒ/  
 832. **frontal** /ˈfrʌntəl/  
 833. **frontier** /ˈfrʌntɪə/  
-
 834. **frontispiece** /ˈfrʌntɪspiːs/  
 835. **frontman** /ˈfrʌntmæn/  
 836. **frost** /frɒst/  
@@ -935,7 +868,6 @@
 843. **frowsty** /ˈfraʊsti/  
 844. **frowzy** /ˈfraʊzi/  
 845. **frozen** /ˈfrəʊzən/  
-
 846. **fructose** /ˈfrʌktəʊs/  
 847. **frugal** /ˈfruːɡəl/  
 848. **fruit** /fruːt/  
@@ -948,7 +880,6 @@
 855. **frustrate** /frʌˈstreɪt/  
 856. **fry** /fraɪ/  
 857. **ft** /fʊt/ (abbr. for "foot/feet")  
-
 858. **fuchsia** /ˈfjuːʃə/  
 859. **fuddled** /ˈfʌdəld/  
 860. **fuddy-duddy** /ˈfʌdiˌdʌdi/  
@@ -961,7 +892,6 @@
 867. **fulcrum** /ˈfʊlkrəm/  
 868. **fulfil** /fʊlˈfɪl/  
 869. **full** /fʊl/  
-
 870. **fuller** /ˈfʊlə/  
 871. **fully** /ˈfʊli/  
 872. **fulminate** /ˈfʌlmɪneɪt/  
@@ -974,7 +904,6 @@
 879. **functional** /ˈfʌŋkʃənəl/  
 880. **functionary** /ˈfʌŋkʃənəri/  
 881. **fund** /fʌnd/  
-
 882. **fundamental** /ˌfʌndəˈmentəl/  
 883. **fundamentalism** /ˌfʌndəˈmentəlɪzəm/  
 884. **funeral** /ˈfjuːnərəl/  
@@ -987,7 +916,6 @@
 891. **funk** /fʌŋk/  
 892. **funky** /ˈfʌŋki/  
 893. **funnel** /ˈfʌnəl/  
-
 894. **funny** /ˈfʌni/  
 895. **fur** /fɜː/  
 896. **furbelow** /ˈfɜːbɪləʊ/  
@@ -1008,7 +936,6 @@
 909. **further** /ˈfɜːðə/  
 910. **furtherance** /ˈfɜːðərəns/  
 911. **furthermore** /ˌfɜːðəˈmɔː/  
-
 912. **furthest** /ˈfɜːðɪst/  
 913. **furtive** /ˈfɜːtɪv/  
 914. **fury** /ˈfjʊəri/  
@@ -1020,7 +947,6 @@
 920. **fusion** /ˈfjuːʒən/  
 921. **fuss** /fʌs/  
 922. **fussy** /ˈfʌsi/  
-
 923. **fusty** /ˈfʌsti/  
 924. **futile** /ˈfjuːtaɪl/  
 925. **futon** /ˈfuːtɒn/  
@@ -1029,5 +955,4 @@
 928. **futurity** /fjuːˈtʃʊərɪti/  
 929. **fuzz** /fʌz/  
 930. **fuzzy** /ˈfʌzi/  
-
 ---

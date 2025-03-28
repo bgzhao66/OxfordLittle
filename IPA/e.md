@@ -10,7 +10,6 @@
 9. **earmark** /ˈɪəmɑːk/ (美式 /ˈɪrmɑːrk/)  
 10. **earmuffs** /ˈɪəmʌfs/ (美式 /ˈɪrmʌfs/)  
 11. **earn** /ɜːn/ (美式 /ɜːrn/)  
-
 12. **earnest** /ˈɜːnɪst/ (美式 /ˈɜːrnɪst/)  
 13. **earnings** /ˈɜːnɪŋz/ (美式 /ˈɜːrnɪŋz/)  
 14. **earphones** /ˈɪəfəʊnz/ (美式 /ˈɪrfoʊnz/)  
@@ -22,7 +21,6 @@
 20. **earthenware** /ˈɜːθənweə/ (美式 /ˈɜːrθənwer/)  
 21. **earthling** /ˈɜːθlɪŋ/ (美式 /ˈɜːrθlɪŋ/)  
 22. **earthly** /ˈɜːθli/ (美式 /ˈɜːrθli/)  
-
 23. **earthquake** /ˈɜːθkweɪk/ (美式 /ˈɜːrθkweɪk/)  
 24. **earthwork** /ˈɜːθwɜːk/ (美式 /ˈɜːrθwɜːrk/)  
 25. **earthworm** /ˈɜːθwɜːm/ (美式 /ˈɜːrθwɜːrm/)  
@@ -34,7 +32,6 @@
 31. **Easter** /ˈiːstə/  
 32. **easterly** /ˈiːstəli/  
 33. **eastern** /ˈiːstən/  
-
 34. **easterner** /ˈiːstənə/ (美式 /ˈiːstənər/)  
 35. **easy** /ˈiːzi/  
 36. **eat** /iːt/  
@@ -46,7 +43,6 @@
 42. **ebony** /ˈebəni/  
 43. **ebullient** /ɪˈbʌliənt/  
 44. **eccentric** /ɪkˈsentrɪk/  
-
 45. **ecclesiastical** /ɪˌkliːziˈæstɪkəl/  
 46. **echelon** /ˈeʃəlɒn/ (美式 /ˈeʃəlɑːn/)  
 47. **echo** /ˈekəʊ/ (美式 /ˈekoʊ/)  
@@ -58,7 +54,6 @@
 53. **ecology** /ɪˈkɒlədʒi/ (美式 /ɪˈkɑːlədʒi/)  
 54. **economic** /ˌiːkəˈnɒmɪk/ (美式 /ˌiːkəˈnɑːmɪk/)  
 55. **economical** /ˌiːkəˈnɒmɪkəl/ (美式 /ˌiːkəˈnɑːmɪkəl/)  
-
 56. **economics** /ˌiːkəˈnɒmɪks/ (美式 /ˌiːkəˈnɑːmɪks/)  
 57. **economist** /ɪˈkɒnəmɪst/ (美式 /ɪˈkɑːnəmɪst/)  
 58. **economize** /ɪˈkɒnəmaɪz/ (美式 /ɪˈkɑːnəmaɪz/)  
@@ -70,7 +65,6 @@
 64. **Ecuadorean** /ˌekwəˈdɔːriən/ (美式 /ˌekwəˈdɔːriən/)  
 65. **ecumenical** /ˌiːkjʊˈmenɪkəl/  
 66. **eczema** /ˈeksɪmə/  
-
 67. **eddy** /ˈedi/  
 68. **edelweiss** /ˈeɪdəlvaɪs/  
 69. **edema** /ɪˈdiːmə/  
@@ -82,7 +76,6 @@
 75. **edict** /ˈiːdɪkt/  
 76. **edifice** /ˈedɪfɪs/  
 77. **edify** /ˈedɪfaɪ/  
-
 78. **edit** /ˈedɪt/  
 79. **edition** /ɪˈdɪʃən/  
 80. **editor** /ˈedɪtə/ (美式 /ˈedɪtər/)  
@@ -94,7 +87,6 @@
 86. **eerie** /ˈɪəri/ (美式 /ˈɪri/)  
 87. **efface** /ɪˈfeɪs/  
 88. **effect** /ɪˈfekt/  
-
 89. **effective** /ɪˈfektɪv/  
 90. **effectual** /ɪˈfektʃuəl/  
 91. **effeminate** /ɪˈfemɪnət/  
@@ -122,7 +114,6 @@
 109. **eggplant** /ˈeɡplɑːnt/ (美式 /ˈeɡplænt/)  
 110. **ego** /ˈiːɡəʊ/ (美式 /ˈiːɡoʊ/)  
 111. **egocentric** /ˌiːɡəʊˈsentrɪk/ (美式 /ˌiːɡoʊˈsentrɪk/)  
-
 112. **egomania** /ˌiːɡəʊˈmeɪniə/ (美式 /ˌiːɡoʊˈmeɪniə/)  
 113. **egotism** /ˈiːɡətɪzəm/  
 114. **egregious** /ɪˈɡriːdʒəs/  
@@ -134,7 +125,6 @@
 120. **eiderdown** /ˈaɪdədaʊn/  
 121. **eight** /eɪt/  
 122. **eighteen** /ˌeɪˈtiːn/  
-
 123. **eighth** /eɪtθ/  
 124. **eighty** /ˈeɪti/  
 125. **eisteddfod** /aɪˈsteðvɒd/  
@@ -146,7 +136,6 @@
 131. **elan** /eɪˈlɑ̃/  
 132. **elapse** /ɪˈlæps/  
 133. **elastic** /ɪˈlæstɪk/  
-
 134. **elasticated** /ɪˈlæstɪkeɪtɪd/  
 135. **elated** /ɪˈleɪtɪd/  
 136. **elation** /ɪˈleɪʃən/  
@@ -159,7 +148,6 @@
 143. **electioneering** /ɪˌlekʃəˈnɪərɪŋ/  
 144. **elective** /ɪˈlektɪv/  
 145. **elector** /ɪˈlektə/ (美式 /ɪˈlektər/)  
-
 146. **electoral** /ɪˈlektərəl/  
 147. **electorate** /ɪˈlektərət/  
 148. **electric** /ɪˈlektrɪk/  
@@ -171,7 +159,6 @@
 154. **electrocute** /ɪˈlektrəkjʊt/  
 155. **electrode** /ɪˈlektrəʊd/ (美式 /ɪˈlektroʊd/)  
 156. **electrolysis** /ɪˌlekˈtrɒlɪsɪs/ (美式 /ɪˌlekˈtrɑːlɪsɪs/)  
-
 157. **electrolyte** /ɪˈlektrəlaɪt/  
 158. **electromagnet** /ɪˌlektrəʊˈmæɡnət/ (美式 /ɪˌlektroʊˈmæɡnət/)  
 159. **electromagnetic** /ɪˌlektrəʊmæɡˈnetɪk/ (美式 /ɪˌlektroʊmæɡˈnetɪk/)  
@@ -184,7 +171,6 @@
 166. **elegiac** /ˌelɪˈdʒaɪək/  
 167. **elegy** /ˈelɪdʒi/  
 168. **element** /ˈelɪmənt/  
-
 169. **elemental** /ˌelɪˈmentəl/  
 170. **elementary** /ˌelɪˈmentəri/  
 171. **elephant** /ˈelɪfənt/  
@@ -198,7 +184,6 @@
 179. **elf** /elf/  
 180. **elfin** /ˈelfɪn/  
 181. **elicit** /ɪˈlɪsɪt/  
-
 182. **elide** /ɪˈlaɪd/  
 183. **eligible** /ˈelɪdʒəbəl/  
 184. **eliminate** /ɪˈlɪmɪneɪt/  
@@ -210,7 +195,6 @@
 190. **elk** /elk/  
 191. **ellipse** /ɪˈlɪps/  
 192. **ellipsis** /ɪˈlɪpsɪs/  
-
 193. **elliptical** /ɪˈlɪptɪkəl/  
 194. **elm** /elm/  
 195. **elocution** /ˌeləˈkjuːʃən/  
@@ -234,7 +218,6 @@
 209. **emanate** /ˈeməneɪt/  
 210. **emancipate** /ɪˈmænsɪpeɪt/  
 211. **emasculate** /ɪˈmæskjʊleɪt/  
-
 212. **embalm** /ɪmˈbɑːm/  
 213. **embankment** /ɪmˈbæŋkmənt/  
 214. **embargo** /ɪmˈbɑːɡəʊ/ (美式 /ɪmˈbɑːrɡoʊ/)  
@@ -246,7 +229,6 @@
 220. **embellish** /ɪmˈbelɪʃ/  
 221. **ember** /ˈembə/  
 222. **embezzle** /ɪmˈbezəl/  
-
 223. **embittered** /ɪmˈbɪtəd/  
 224. **emblazon** /ɪmˈbleɪzən/  
 225. **emblem** /ˈembləm/  
@@ -258,7 +240,6 @@
 231. **embrace** /ɪmˈbreɪs/  
 232. **embrocation** /ˌembrəˈkeɪʃən/  
 233. **embroider** /ɪmˈbrɔɪdə/  
-
 234. **embroidery** /ɪmˈbrɔɪdəri/  
 235. **embroil** /ɪmˈbrɔɪl/  
 236. **embryo** /ˈembriəʊ/ (美式 /ˈembrioʊ/)  
@@ -271,7 +252,6 @@
 243. **emeritus** /ɪˈmerɪtəs/  
 244. **emery board** /ˈeməri bɔːd/  
 245. **emetic** /ɪˈmetɪk/  
-
 246. **emigrant** /ˈemɪɡrənt/  
 247. **emigrate** /ˈemɪɡreɪt/  
 248. **émigré** /ˈemɪɡreɪ/  
@@ -283,7 +263,6 @@
 254. **emit** /ɪˈmɪt/  
 255. **emollient** /ɪˈmɒliənt/ (美式 /ɪˈmɑːliənt/)  
 256. **emolument** /ɪˈmɒljʊmənt/  
-
 257. **emotion** /ɪˈməʊʃən/ (美式 /ɪˈmoʊʃən/)  
 258. **emotional** /ɪˈməʊʃənəl/ (美式 /ɪˈmoʊʃənəl/)  
 259. **emotive** /ɪˈməʊtɪv/ (美式 /ɪˈmoʊtɪv/)  
@@ -295,7 +274,6 @@
 265. **emphatic** /ɪmˈfætɪk/  
 266. **emphysema** /ˌemfɪˈsiːmə/  
 267. **empire** /ˈempaɪə/ (美式 /ˈempaɪər/)  
-
 268. **empirical** /ɪmˈpɪrɪkəl/  
 269. **emplacement** /ɪmˈpleɪsmənt/  
 270. **employ** /ɪmˈplɔɪ/  
@@ -308,7 +286,6 @@
 277. **empty** /ˈempti/  
 278. **emu** /ˈiːmjuː/  
 279. **emulate** /ˈemjʊleɪt/  
-
 280. **emulsify** /ɪˈmʌlsɪfaɪ/  
 281. **emulsion** /ɪˈmʌlʃən/  
 282. **enable** /ɪˈneɪbəl/  
@@ -321,7 +298,6 @@
 289. **encapsulate** /ɪnˈkæpsjʊleɪt/  
 290. **encase** /ɪnˈkeɪs/  
 291. **encephalitis** /enˌsefəˈlaɪtɪs/  
-
 292. **enchant** /ɪnˈtʃɑːnt/  
 293. **enchanting** /ɪnˈtʃɑːntɪŋ/  
 294. **encircle** /ɪnˈsɜːkəl/ (美式 /ɪnˈsɜːrkəl/)  
@@ -344,7 +320,6 @@
 309. **end** /end/  
 310. **endanger** /ɪnˈdeɪndʒə/  
 311. **endangered** /ɪnˈdeɪndʒəd/  
-
 312. **endear** /ɪnˈdɪə/ (美式 /ɪnˈdɪr/)  
 313. **endearing** /ɪnˈdɪərɪŋ/  
 314. **endearment** /ɪnˈdɪəmənt/  
@@ -356,7 +331,6 @@
 320. **endocrine** /ˈendəʊkraɪn/ (美式 /ˈendoʊkraɪn/)  
 321. **endorphin** /enˈdɔːfɪn/  
 322. **endorse** /ɪnˈdɔːs/ (美式 /ɪnˈdɔːrs/)  
-
 323. **endow** /ɪnˈdaʊ/  
 324. **endowment** /ɪnˈdaʊmənt/  
 325. **endpaper** /ˈendpeɪpə/  
@@ -369,7 +343,6 @@
 332. **energy** /ˈenədʒi/  
 333. **enervate** /ˈenəveɪt/  
 334. **enfant terrible** /ˌɒ̃fɒ̃ tɛˈriːblə/  
-
 335. **enfeeble** /ɪnˈfiːbəl/  
 336. **enfold** /ɪnˈfəʊld/ (美式 /ɪnˈfoʊld/)  
 337. **enforce** /ɪnˈfɔːs/  
@@ -381,7 +354,6 @@
 343. **engender** /ɪnˈdʒendə/  
 344. **engine** /ˈendʒɪn/  
 345. **engineer** /ˌendʒɪˈnɪə/ (美式 /ˌendʒɪˈnɪr/)  
-
 346. **engineering** /ˌendʒɪˈnɪərɪŋ/  
 347. **English** /ˈɪŋɡlɪʃ/  
 348. **engorged** /ɪnˈɡɔːdʒd/  
@@ -394,7 +366,6 @@
 355. **enigma** /ɪˈnɪɡmə/  
 356. **enjoin** /ɪnˈdʒɔɪn/  
 357. **enjoy** /ɪnˈdʒɔɪ/  
-
 358. **enjoyable** /ɪnˈdʒɔɪəbəl/  
 359. **enlarge** /ɪnˈlɑːdʒ/  
 360. **enlargement** /ɪnˈlɑːdʒmənt/  
@@ -407,7 +378,6 @@
 367. **ennoble** /ɪˈnəʊbəl/ (美式 /ɪˈnoʊbəl/)  
 368. **ennui** /ɒ̃ˈnwiː/  
 369. **enormity** /ɪˈnɔːmɪti/  
-
 370. **enormous** /ɪˈnɔːməs/  
 371. **enough** /ɪˈnʌf/  
 372. **enquire** /ɪnˈkwaɪə/ (美式 /ɪnˈkwaɪr/)  
@@ -420,7 +390,6 @@
 379. **ensconce** /ɪnˈskɒns/  
 380. **ensemble** /ɒ̃ˈsɒ̃bl/  
 381. **enshrine** /ɪnˈʃraɪn/  
-
 382. **enshroud** /ɪnˈʃraʊd/  
 383. **ensign** /ˈensaɪn/  
 384. **enslave** /ɪnˈsleɪv/  
@@ -432,7 +401,6 @@
 390. **entangle** /ɪnˈtæŋɡəl/  
 391. **entente** /ɒ̃ˈtɒ̃t/  
 392. **enter** /ˈentə/  
-
 393. **enterprise** /ˈentəpraɪz/  
 394. **enterprising** /ˈentəpraɪzɪŋ/  
 395. **entertain** /ˌentəˈteɪn/  
@@ -456,7 +424,6 @@
 409. **entomology** /ˌentəˈmɒlədʒi/ (美式 /ˌentəˈmɑːlədʒi/)  
 410. **entourage** /ˈɒntʊrɑːʒ/  
 411. **entrails** /ˈentreɪlz/  
-
 412. **entrance** /ˈentrəns/ (n.入口)  
 413. **entrance** /ɪnˈtrɑːns/ (v.使着迷)  
 414. **entrant** /ˈentrənt/  
@@ -468,7 +435,6 @@
 420. **entrepreneur** /ˌɒntrəprəˈnɜː/  
 421. **entropy** /ˈentrəpi/  
 422. **entrust** /ɪnˈtrʌst/  
-
 423. **entry** /ˈentri/  
 424. **entwine** /ɪnˈtwaɪn/  
 425. **enumerate** /ɪˈnjuːməreɪt/ (美式 /ɪˈnuːməreɪt/)  
@@ -480,7 +446,6 @@
 431. **environment** /ɪnˈvaɪrənmənt/  
 432. **environmentalist** /ɪnˌvaɪrənˈmentəlɪst/  
 433. **environs** /ɪnˈvaɪrənz/  
-
 434. **envisage** /ɪnˈvɪzɪdʒ/  
 435. **envoy** /ˈenvɔɪ/  
 436. **envy** /ˈenvi/  
@@ -493,7 +458,6 @@
 443. **epicentre** /ˈepɪsentə/ (美式 /ˈepɪsentər/)  
 444. **epicure** /ˈepɪkjʊə/  
 445. **epidemic** /ˌepɪˈdemɪk/  
-
 446. **epidermis** /ˌepɪˈdɜːmɪs/  
 447. **epidural** /ˌepɪˈdjʊərəl/ (美式 /ˌepɪˈdʊrəl/)  
 448. **epiglottis** /ˌepɪˈɡlɒtɪs/  
@@ -506,7 +470,6 @@
 455. **episcopal** /ɪˈpɪskəpəl/  
 456. **episcopalian** /ɪˌpɪskəˈpeɪliən/  
 457. **episode** /ˈepɪsəʊd/ (美式 /ˈepɪsoʊd/)  
-
 458. **episodic** /ˌepɪˈsɒdɪk/  
 459. **epistemology** /ɪˌpɪstəˈmɒlədʒi/  
 460. **epistle** /ɪˈpɪsəl/  
@@ -519,7 +482,6 @@
 467. **eponym** /ˈepənɪm/  
 468. **eponymous** /ɪˈpɒnɪməs/  
 469. **equable** /ˈekwəbəl/  
-
 470. **equal** /ˈiːkwəl/  
 471. **equality** /ɪˈkwɒləti/ (美式 /ɪˈkwɑːləti/)  
 472. **equalize** /ˈiːkwəlaɪz/  
@@ -532,7 +494,6 @@
 479. **equestrian** /ɪˈkwestriən/  
 480. **equestrianism** /ɪˈkwestriənɪzəm/  
 481. **equidistant** /ˌiːkwɪˈdɪstənt/  
-
 482. **equilateral** /ˌiːkwɪˈlætərəl/  
 483. **equilibrium** /ˌiːkwɪˈlɪbriəm/  
 484. **equine** /ˈekwaɪn/  
@@ -545,7 +506,6 @@
 491. **equivalent** /ɪˈkwɪvələnt/  
 492. **equivocal** /ɪˈkwɪvəkəl/  
 493. **equivocate** /ɪˈkwɪvəkeɪt/  
-
 494. **era** /ˈɪərə/ (美式 /ˈerə/)  
 495. **eradicate** /ɪˈrædɪkeɪt/  
 496. **erase** /ɪˈreɪz/  
@@ -566,7 +526,6 @@
 509. **erotica** /ɪˈrɒtɪkə/  
 510. **eroticism** /ɪˈrɒtɪsɪzəm/  
 511. **err** /ɜː/ (美式 /ɜːr/)  
-
 512. **errand** /ˈerənd/  
 513. **errant** /ˈerənt/  
 514. **erratic** /ɪˈrætɪk/  
@@ -578,7 +537,6 @@
 520. **erudite** /ˈerʊdaɪt/  
 521. **erupt** /ɪˈrʌpt/  
 522. **erythrocyte** /ɪˈrɪθrəsaɪt/  
-
 523. **escalate** /ˈeskəleɪt/  
 524. **escalator** /ˈeskəleɪtə/  
 525. **escalope** /ˈeskəlɒp/  
@@ -590,7 +548,6 @@
 531. **eschew** /ɪsˈtʃuː/  
 532. **escort** /ˈeskɔːt/ (n.); /ɪˈskɔːt/ (v.)  
 533. **escudo** /eˈskuːdəʊ/  
-
 534. **escutcheon** /ɪˈskʌtʃən/  
 535. **Eskimo** /ˈeskɪməʊ/  
 536. **esophagus** /ɪˈsɒfəɡəs/ (美式 /ɪˈsɑːfəɡəs/)  
@@ -603,7 +560,6 @@
 543. **espouse** /ɪˈspaʊz/  
 544. **espresso** /eˈspresəʊ/  
 545. **esprit de corps** /eˌspriː də ˈkɔː/  
-
 546. **espy** /ɪˈspaɪ/  
 547. **Esquire** /ɪˈskwaɪə/ (美式 /ɪˈskwaɪr/)  
 548. **essay** /ˈeseɪ/  
@@ -616,7 +572,6 @@
 555. **ester** /ˈestə/  
 556. **esthetic** /esˈθetɪk/  
 557. **estimable** /ˈestɪməbəl/  
-
 558. **Estonian** /eˈstəʊniən/  
 559. **estranged** /ɪˈstreɪndʒd/  
 560. **estrogen** /ˈiːstrədʒən/  
@@ -629,7 +584,6 @@
 567. **eternal** /ɪˈtɜːnəl/ (美式 /ɪˈtɜːrnəl/)  
 568. **eternity** /ɪˈtɜːnəti/  
 569. **ethane** /ˈiːθeɪn/  
-
 570. **ether** /ˈiːθə/  
 571. **ethereal** /ɪˈθɪəriəl/  
 572. **ethic** /ˈeθɪk/  
@@ -642,7 +596,6 @@
 579. **etymology** /ˌetɪˈmɒlədʒi/  
 580. **eucalyptus** /ˌjuːkəˈlɪptəs/  
 581. **Eucharist** /ˈjuːkərɪst/  
-
 582. **eugenics** /juːˈdʒenɪks/  
 583. **eulogize** /ˈjuːlədʒaɪz/  
 584. **eulogy** /ˈjuːlədʒi/  
@@ -655,7 +608,6 @@
 591. **Eurasian** /jʊˈreɪʒən/  
 592. **eureka** /jʊˈriːkə/  
 593. **euro** /ˈjʊərəʊ/ (美式 /ˈjʊroʊ/)  
-
 594. **European** /ˌjʊərəˈpiːən/ (美式 /ˌjʊrəˈpiːən/)  
 595. **euthanasia** /ˌjuːθəˈneɪziə/  
 596. **evacuate** /ɪˈvækjueɪt/  
@@ -678,7 +630,6 @@
 609. **evening** /ˈiːvnɪŋ/  
 610. **evensong** /ˈiːvənsɒŋ/  
 611. **event** /ɪˈvent/  
-
 612. **eventful** /ɪˈventfʊl/  
 613. **eventual** /ɪˈventʃuəl/  
 614. **ever** /ˈevə/  
@@ -690,7 +641,6 @@
 620. **everyday** /ˈevrideɪ/  
 621. **everyone** /ˈevriwʌn/  
 622. **everything** /ˈevriθɪŋ/  
-
 623. **everywhere** /ˈevriweə/  
 624. **evict** /ɪˈvɪkt/  
 625. **evidence** /ˈevɪdəns/  
@@ -702,7 +652,6 @@
 631. **evoke** /ɪˈvəʊk/  
 632. **evolution** /ˌiːvəˈluːʃən/  
 633. **evolve** /ɪˈvɒlv/  
-
 634. **ewe** /juː/  
 635. **ewer** /ˈjuːə/  
 636. **ex** /eks/  
@@ -715,7 +664,6 @@
 643. **exalt** /ɪɡˈzɔːlt/  
 644. **exaltation** /ˌeɡzɔːlˈteɪʃən/  
 645. **exalted** /ɪɡˈzɔːltɪd/  
-
 646. **exam** /ɪɡˈzæm/  
 647. **examination** /ɪɡˌzæmɪˈneɪʃən/  
 648. **examine** /ɪɡˈzæmɪn/  
@@ -728,7 +676,6 @@
 655. **Excellency** /ˈeksələnsi/  
 656. **excellent** /ˈeksələnt/  
 657. **except** /ɪkˈsept/  
-
 658. **excepting** /ɪkˈseptɪŋ/  
 659. **exception** /ɪkˈsepʃən/  
 660. **exceptionable** /ɪkˈsepʃənəbəl/  
@@ -741,7 +688,6 @@
 667. **excise** /ˈeksaɪz/  
 668. **excitable** /ɪkˈsaɪtəbəl/  
 669. **excite** /ɪkˈsaɪt/  
-
 670. **excitement** /ɪkˈsaɪtmənt/  
 671. **exclaim** /ɪkˈskleɪm/  
 672. **exclamation** /ˌekskləˈmeɪʃən/  
@@ -754,7 +700,6 @@
 679. **excrescence** /ɪkˈskresəns/  
 680. **excreta** /ɪkˈskriːtə/  
 681. **excrete** /ɪkˈskriːt/  
-
 682. **excruciating** /ɪkˈskruːʃieɪtɪŋ/  
 683. **exculpate** /ˈekskʌlpeɪt/  
 684. **excursion** /ɪkˈskɜːʃən/  
@@ -767,7 +712,6 @@
 691. **executive** /ɪɡˈzekjətɪv/  
 692. **executor** /ɪɡˈzekjətə/  
 693. **exegesis** /ˌeksɪˈdʒiːsɪs/  
-
 694. **exemplar** /ɪɡˈzemplə/  
 695. **exemplary** /ɪɡˈzempləri/  
 696. **exemplify** /ɪɡˈzemplɪfaɪ/  
@@ -788,7 +732,6 @@
 709. **exhilarate** /ɪɡˈzɪləreɪt/  
 710. **exhort** /ɪɡˈzɔːt/  
 711. **exhume** /eksˈhjuːm/  
-
 712. **exigency** /ˈeksɪdʒənsi/  
 713. **exigent** /ˈeksɪdʒənt/  
 714. **exiguous** /ɪɡˈzɪɡjuəs/  
@@ -800,7 +743,6 @@
 720. **exit** /ˈeksɪt/  
 721. **exodus** /ˈeksədəs/  
 722. **exonerate** /ɪɡˈzɒnəreɪt/  
-
 723. **exorbitant** /ɪɡˈzɔːbɪtənt/  
 724. **exorcize** /ˈeksɔːsaɪz/  
 725. **exotic** /ɪɡˈzɒtɪk/  
@@ -813,7 +755,6 @@
 732. **expect** /ɪkˈspekt/  
 733. **expectancy** /ɪkˈspektənsi/  
 734. **expectant** /ɪkˈspektənt/  
-
 735. **expectation** /ˌekspekˈteɪʃən/  
 736. **expectorant** /ɪkˈspektərənt/  
 737. **expectorate** /ɪkˈspektəreɪt/  
@@ -826,7 +767,6 @@
 744. **expendable** /ɪkˈspendəbəl/  
 745. **expenditure** /ɪkˈspendɪtʃə/  
 746. **expense** /ɪkˈspens/  
-
 747. **expensive** /ɪkˈspensɪv/  
 748. **experience** /ɪkˈspɪəriəns/  
 749. **experienced** /ɪkˈspɪəriənst/  
@@ -839,7 +779,6 @@
 756. **expiry** /ɪkˈspaɪəri/  
 757. **explain** /ɪkˈspleɪn/  
 758. **explanatory** /ɪkˈsplænətəri/  
-
 759. **expletive** /ɪkˈspliːtɪv/  
 760. **explicable** /ɪkˈsplɪkəbəl/  
 761. **explicit** /ɪkˈsplɪsɪt/  
@@ -853,7 +792,6 @@
 769. **export** /ˈekspɔːt/ (n.); /ɪkˈspɔːt/ (v.)  
 770. **expose** /ɪkˈspəʊz/  
 771. **exposé** /ɪkˈspəʊzeɪ/  
-
 772. **exposition** /ˌekspəˈzɪʃən/  
 773. **expostulate** /ɪkˈspɒstʃʊleɪt/  
 774. **exposure** /ɪkˈspəʊʒə/  
@@ -866,7 +804,6 @@
 781. **expulsion** /ɪkˈspʌlʃən/  
 782. **expunge** /ɪkˈspʌndʒ/  
 783. **expurgate** /ˈekspəɡeɪt/  
-
 784. **exquisite** /ɪkˈskwɪzɪt/  
 785. **extant** /ekˈstænt/  
 786. **extempore** /ekˈstempəri/  
@@ -879,7 +816,6 @@
 793. **exterior** /ɪkˈstɪəriə/  
 794. **exterminate** /ɪkˈstɜːmɪneɪt/  
 795. **external** /ɪkˈstɜːnəl/  
-
 796. **externalize** /ɪkˈstɜːnəlaɪz/  
 797. **extinct** /ɪkˈstɪŋkt/  
 798. **extinguish** /ɪkˈstɪŋɡwɪʃ/  
@@ -900,7 +836,6 @@
 809. **extraneous** /ɪkˈstreɪniəs/  
 810. **extraordinaire** /ɪkˌstrɔːdɪˈneə/  
 811. **extraordinary** /ɪkˈstrɔːdənəri/  
-
 812. **extrapolate** /ɪkˈstræpəleɪt/  
 813. **extraterrestrial** /ˌekstrətəˈrestriəl/  
 814. **extravagant** /ɪkˈstrævəɡənt/  
@@ -912,7 +847,6 @@
 820. **extrinsic** /ekˈstrɪnsɪk/  
 821. **extrovert** /ˈekstrəvɜːt/  
 822. **extrude** /ɪkˈstruːd/  
-
 823. **exuberant** /ɪɡˈzjuːbərənt/  
 824. **exude** /ɪɡˈzjuːd/  
 825. **exult** /ɪɡˈzʌlt/  
@@ -924,10 +858,8 @@
 831. **eyelet** /ˈaɪlət/  
 832. **eyelid** /ˈaɪlɪd/  
 833. **eyeliner** /ˈaɪlaɪnə/  
-
 834. **eyeshadow** /ˈaɪʃædəʊ/  
 835. **eyesight** /ˈaɪsaɪt/  
 836. **eyesore** /ˈaɪsɔː/  
 837. **eyewitness** /ˈaɪwɪtnəs/  
-
 ---
