@@ -22,6 +22,9 @@ const html = `
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <style>
+        body { font-family: Helvetica, Arial; }
+    </style>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>${title}</title>
