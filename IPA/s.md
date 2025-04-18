@@ -1432,7 +1432,7 @@
 1369. **sot** /sɒt/  
 1370. **sotto voce** /ˌsɒtəʊ ˈvəʊtʃi/  
 1371. **soubriquet** /ˈsuːbrɪkeɪ/  
-1372. **souffle** /ˈsuːfleɪ/  
+1372. **soufflé** /ˈsuːfleɪ/
 1373. **sought** /sɔːt/  
 1374. **souk** /suːk/  
 1375. **soul** /səʊl/  
